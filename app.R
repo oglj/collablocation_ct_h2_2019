@@ -150,7 +150,7 @@ options(
 # 
 # # Please go to https://developers.google.com/maps/documentation/ for more info
 # 
-# # googleMapsAPIKey <- "AIzaSyBAEus4_qur-fkzm2A0PQ2mYoIK7Qra26c"
+# # googleMapsAPIKey <- "G3t_y0Ur3_0VVn"
 
 ##### global variables #####
 
