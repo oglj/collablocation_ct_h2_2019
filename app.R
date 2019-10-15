@@ -90,9 +90,9 @@ options(shiny.reactlog = TRUE)
 ##### set global options #####
 options(
   mongodb = list(
-    "host" = "ds159025.mlab.com:59025",
-    "username" = "collablocation",
-    "password" = "Geodesign2018A"
+    "host" = "getyourownat_mlab.com",
+    "username" = "makeYourOwn",
+    "password" = "youNeedAPassword"
   ),
   DT.options = list(
     autoWidth = TRUE
